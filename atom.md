@@ -1,0 +1,13 @@
+### Community packages
+- atom-beautify
+- autocomplete-emojis
+- autocomplete-modules
+- busy-signal
+- csv-table
+- intentions
+- language-babel
+- linter
+- linter-eslint
+- linter-ui-default
+- mardown-writer
+- sync-settings
