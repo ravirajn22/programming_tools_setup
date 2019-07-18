@@ -11,3 +11,11 @@
 - linter-ui-default
 - mardown-writer
 - sync-settings
+
+### Atom Ignored Names
+.git, .hg, .svn, .DS_Store, ._*, Thumbs.db, desktop.ini, node_modules
+
+### Atom UI Theme
+- One Light
+### Atom Syntax Theme
+- Atom Light
