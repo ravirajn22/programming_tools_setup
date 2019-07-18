@@ -1,4 +1,4 @@
-### Community packages
+### Atom Community packages
 - atom-beautify
 - autocomplete-emojis
 - autocomplete-modules
