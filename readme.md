@@ -17,5 +17,10 @@
 
 ### Atom UI Theme
 - One Light
+
 ### Atom Syntax Theme
 - Atom Light
+
+### Atom Tree View Package
+- Hide Ignored Names (enable)
+- Hide VCS Ignored Names (enable)
